@@ -11,7 +11,7 @@
   * gmaps dependencies
     * conda install -c conda-forge gmaps
 
-## Challange
+## Challenge
 
   * Weather_Database - creates a dataset of cities with current data associated with them
 
